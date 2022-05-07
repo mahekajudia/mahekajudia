@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on Front-End Projects
 - 🤔 I’m looking for help with NodeJS
 - 💬 Ask me about HTML JavaScript CSS DOTNET WORDPRESS 
-- 📫 How to reach me: [Instagram](instagram.com/mahekajudia) , [Twitter](twitter.com/MahekAjudia) , [LinkedIn](https://www.linkedin.com/in/mahek-ajudia-361185197/) , [YouTube](https://www.youtube.com/c/MahekAjudia)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/mahekajudia) , [Twitter](https://www.twitter.com/MahekAjudia) , [LinkedIn](https://www.linkedin.com/in/mahek-ajudia-361185197/) , [YouTube](https://www.youtube.com/c/MahekAjudia)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Mahek not Mehek 😂
 
