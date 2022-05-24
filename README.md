@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend and dotnet Developer</h3>
 <h3 align="center">I'm a B.Tech Computer Science Engineering Student. Efficient in C, C++, MySQL, Flutter & Kotlin and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems.</h3>
 
-- 🔭 I’m currently working on OCRTranslator
+- 🔭 I’m currently working on 50Project50days
 - 🌱 I’m currently learning React and Node
 - 👯 I’m looking to collaborate on Front-End Projects
 - 🤔 I’m looking for help with NodeJS
