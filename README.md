@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahek Ajudia</h1>
 <h3 align="center">A Frontend and dotnet Developer</h3>
-<h3 align="center">I'm a B.Tech Computer Science Engineering Student. Efficient in C, C++, MySQL, Flutter & Kotlin and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems.</h3>
+<h3 align="center">I'm a B.Tech Computer Science Engineering Student. Efficient in C, C++, MySQL, Flutter & Kotlin and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems.</h3><hr>
 
 - 🔭 I’m currently working on 50Project50days
 - 🌱 I’m currently learning React and Node
@@ -38,8 +38,8 @@
 </p>
 
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=mahekajudia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=52BE80">
-<p align="center"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MahekAjudia&" alt="MahekAjudia" /></p><br/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahekajudia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=52BE80"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahekAjudia&" alt="MahekAjudia" /></p>
 
-<a href="https://github.com/mahekajudia/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahekajudia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<p align="center"><a href="https://github.com/mahekajudia/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahekajudia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
 
