@@ -40,6 +40,3 @@
 <br/>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahekajudia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=52BE80"></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahekAjudia&" alt="MahekAjudia" /></p>
-
-<p align="center"><a href="https://github.com/mahekajudia/github-readme-activity-graph"><img alt="Mahek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mahekajudia&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a></p>
-
