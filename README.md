@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on 50Project50days
 - 🌱 I’m currently learning React and Node
 - 👯 I’m looking to collaborate on Front-End Projects
-- 🤔 I’m looking for help with NodeJS
+- 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about HTML JavaScript CSS DOTNET WORDPRESS 
 - 📫 How to reach me: [Instagram](https://www.instagram.com/mahekajudia) , [Twitter](https://www.twitter.com/MahekAjudia) , [LinkedIn](https://www.linkedin.com/in/mahek-ajudia-361185197/) , [YouTube](https://www.youtube.com/c/MahekAjudia)
 - 😄 Pronouns: He/Him
