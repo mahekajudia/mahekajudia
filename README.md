@@ -1,9 +1,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Mahek Ajudia</h1>
 <h3 align="center">A Frontend Web Developer</h3>
-<h3 align="center">I'm a B.Tech Computer Science Engineering Student. Efficient in C, C++, HTML, CSS, JS and WordPress and currently learning data structures, algorithms, and coding fundamentals which will help me understand and overcome the problems.</h3><hr>
+<h3 align="center">I'm a B.Tech Computer Science Engineering Student. Efficient in C, C++, HTML, CSS, JS and DataStructure Algorithm and currently learning ReactJS, and coding fundamentals which will help me understand and overcome the problems.</h3><hr>
 
 - 🔭 I’m currently working on ReactJS 
-- 🌱 I’m currently learning React and Node
+- 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on Front-End Projects
 - 🤔 I’m looking for help with ReactJS
 - 💬 Ask me about HTML JavaScript CSS DOTNET WORDPRESS 
